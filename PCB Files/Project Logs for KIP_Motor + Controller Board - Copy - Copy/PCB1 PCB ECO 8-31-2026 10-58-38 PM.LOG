@@ -1,0 +1,300 @@
+Removed Pin From Net: NetName=GND Pin=IC1-7
+Removed Pin From Net: NetName=GND Pin=IC1-8
+Removed Pin From Net: NetName=GP16 Pin=P1-1
+Removed Pin From Net: NetName=GP17 Pin=P1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=GP18 Pin=P1-4
+Removed Pin From Net: NetName=GP19 Pin=P1-5
+Removed Pin From Net: NetName=GP20 Pin=P1-6
+Removed Pin From Net: NetName=GP21 Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=P1-8
+Removed Pin From Net: NetName=GP22 Pin=P1-9
+Removed Pin From Net: NetName=GP26 Pin=P1-11
+Removed Pin From Net: NetName=GP27 Pin=P1-12
+Removed Pin From Net: NetName=GND Pin=P1-13
+Removed Pin From Net: NetName=GP28 Pin=P1-14
+Removed Pin From Net: NetName=3V3 Pin=P1-16
+Removed Pin From Net: NetName=GND Pin=P1-18
+Removed Pin From Net: NetName=+5 Pin=P1-19
+Removed Pin From Net: NetName=GP15 Pin=P2-1
+Removed Pin From Net: NetName=GP14 Pin=P2-2
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Pin From Net: NetName=GP13 Pin=P2-4
+Removed Pin From Net: NetName=GP12 Pin=P2-5
+Removed Pin From Net: NetName=GP11 Pin=P2-6
+Removed Pin From Net: NetName=GP10 Pin=P2-7
+Removed Pin From Net: NetName=GND Pin=P2-8
+Removed Pin From Net: NetName=GP9 Pin=P2-9
+Removed Pin From Net: NetName=GP8 Pin=P2-10
+Removed Pin From Net: NetName=GP7 Pin=P2-11
+Removed Pin From Net: NetName=GP6 Pin=P2-12
+Removed Pin From Net: NetName=GND Pin=P2-13
+Removed Pin From Net: NetName=GP5 Pin=P2-14
+Removed Pin From Net: NetName=GP4 Pin=P2-15
+Removed Pin From Net: NetName=GP3 Pin=P2-16
+Removed Pin From Net: NetName=GP2 Pin=P2-17
+Removed Pin From Net: NetName=GND Pin=P2-18
+Removed Pin From Net: NetName=GP1 Pin=P2-19
+Removed Pin From Net: NetName=GP0 Pin=P2-20
+Removed Pin From Net: NetName=GP16 Pin=P3-1
+Removed Pin From Net: NetName=GP21 Pin=P3-7
+Removed Pin From Net: NetName=GND Pin=P3-8
+Removed Pin From Net: NetName=GP22 Pin=P3-9
+Removed Pin From Net: NetName=GP26 Pin=P3-11
+Removed Pin From Net: NetName=GP27 Pin=P3-12
+Removed Pin From Net: NetName=GND Pin=P3-13
+Removed Pin From Net: NetName=GND Pin=P3-18
+Removed Pin From Net: NetName=+3 Pin=P3-19
+Removed Pin From Net: NetName=GP15 Pin=P4-1
+Removed Pin From Net: NetName=GP14 Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P4-3
+Removed Pin From Net: NetName=GP13 Pin=P4-4
+Removed Pin From Net: NetName=GP12 Pin=P4-5
+Removed Pin From Net: NetName=GP11 Pin=P4-6
+Removed Pin From Net: NetName=GP10 Pin=P4-7
+Removed Pin From Net: NetName=GND Pin=P4-8
+Removed Pin From Net: NetName=GP9 Pin=P4-9
+Removed Pin From Net: NetName=GP8 Pin=P4-10
+Removed Pin From Net: NetName=GP7 Pin=P4-11
+Removed Pin From Net: NetName=GP6 Pin=P4-12
+Removed Pin From Net: NetName=GND Pin=P4-13
+Removed Pin From Net: NetName=GP5 Pin=P4-14
+Removed Pin From Net: NetName=GP15 Pin=R2-1
+Change Component Comment : Designator=R1 Old Comment=0805W8F2200T5E New Comment=220 Ohm
+Change Component Comment : Designator=LED1 Old Comment=KT-0603R New Comment=Red
+Added Component: Designator=U1(No pin-header Pi)
+Add component (AddParameter): Name = "Additional Feature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Breadth"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body/Shell Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channels"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Control Mode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Control Technique"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "SC0918"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Withstanding Voltage (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Method"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-30 Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Raspberry Pi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SC0918"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity Level"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Decks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Body Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Equivalence Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reflow Temperature (Cel)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=6 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification Status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Safety Approval"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Schlib1.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "4318"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switcher Configuration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Grade"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal and Terminal Block Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Form"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Position"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Time @ Peak Reflow Temperature-Max (s)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Cross Section"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U5(No pin-header Pi)
+Add component (AddParameter): Name = "Additional Feature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Breadth"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Depth"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body Length"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Body/Shell Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channels"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Mating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish - Termination"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Pattern"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Control Mode"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Control Technique"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "SC0918"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Withstanding Voltage (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Method"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-30 Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JESD-609 Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Raspberry Pi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SC0918"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Series"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Contact Pitch"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Moisture Sensitivity Level"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Option 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Connectors"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Decks"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows Loaded"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Body Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Equivalence Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Shape"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Style"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB Contact Pattern"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Reflow Temperature (Cel)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=6 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qualification Status"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current (Signal)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Standard"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reliability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Safety Approval"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "Schlib1.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "4318"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switcher Configuration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Grade"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal and Terminal Block Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Finish"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Form"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Length"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Position"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Time @ Peak Reflow Temperature-Max (s)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Cross Section"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GP0 Pin=U1-1
+Added Pin To Net: NetName=GP1 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GP2 Pin=U1-4
+Added Pin To Net: NetName=GP3 Pin=U1-5
+Added Pin To Net: NetName=GP4 Pin=U1-6
+Added Pin To Net: NetName=GP5 Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GP6 Pin=U1-9
+Added Pin To Net: NetName=GP7 Pin=U1-10
+Added Pin To Net: NetName=GP8 Pin=U1-11
+Added Pin To Net: NetName=GP9 Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GP10 Pin=U1-14
+Added Pin To Net: NetName=GP11 Pin=U1-15
+Added Pin To Net: NetName=GP12 Pin=U1-16
+Added Pin To Net: NetName=GP13 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GP14 Pin=U1-19
+Added Pin To Net: NetName=GP15 Pin=U1-20
+Added Pin To Net: NetName=GP16 Pin=U1-21
+Added Pin To Net: NetName=GP17 Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GP18 Pin=U1-24
+Added Pin To Net: NetName=GP19 Pin=U1-25
+Added Pin To Net: NetName=GP20 Pin=U1-26
+Added Pin To Net: NetName=GP21 Pin=U1-27
+Added Pin To Net: NetName=GND Pin=U1-28
+Added Pin To Net: NetName=GP22 Pin=U1-29
+Added Pin To Net: NetName=GP26 Pin=U1-31
+Added Pin To Net: NetName=GP27 Pin=U1-32
+Added Pin To Net: NetName=GND Pin=U1-33
+Added Pin To Net: NetName=GP28 Pin=U1-34
+Added Pin To Net: NetName=3V3 Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-38
+Added Pin To Net: NetName=+5 Pin=U1-39
+Added Pin To Net: NetName=GND Pin=U1-F
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U5-13
+Added Pin To Net: NetName=GND Pin=U5-18
+Added Pin To Net: NetName=GND Pin=U5-23
+Added Pin To Net: NetName=GND Pin=U5-28
+Added Pin To Net: NetName=GND Pin=U5-38
+Added Pin To Net: NetName=+3 Pin=U5-39
+Added Pin To Net: NetName=GND Pin=U5-F
+Added Pin To Net: NetName=GP5_1 Pin=U5-7
+Added Net: Name=GP5_1
+Added Pin To Net: NetName=GP9_1 Pin=U5-12
+Added Net: Name=GP9_1
+Added Pin To Net: NetName=GP15_1 Pin=U5-20
+Added Net: Name=GP15_1
+Added Pin To Net: NetName=GP16_1 Pin=U5-21
+Added Net: Name=GP16_1
+Added Pin To Net: NetName=GP21_1 Pin=U5-27
+Added Net: Name=GP21_1
+Added Pin To Net: NetName=GP22_1 Pin=U5-29
+Added Net: Name=GP22_1
+Added Pin To Net: NetName=GP26_1 Pin=U5-31
+Added Net: Name=GP26_1
+Added Pin To Net: NetName=GP27_1 Pin=U5-32
+Added Net: Name=GP27_1
+Added Member To Class: ClassName=KIP_2Schematic Member=Component U1 SC0918
+Added Member To Class: ClassName=KIP_2Schematic Member=Component U5 SC0918
