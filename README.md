@@ -5,9 +5,9 @@ Motor control and handheld controller hardware developed for an educational robo
 ## PCB
 
 <p align="center">
-  <img src="Images/Screenshot%202026-09-13%20191907.png" width="90%" alt="Motor and Controller PCB">
+  <img src="Images/Screenshot%202026-09-13%192452.png" width="90%" alt="Motor and Controller PCB">
 </p>
-
+ 
 ## Overview
 
 This design combines two separate PCBs: a motor control board and a handheld controller board.
