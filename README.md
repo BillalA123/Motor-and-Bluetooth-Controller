@@ -35,13 +35,11 @@ The motor control board handles power regulation and drives four motors, while t
 - Joystick input for robot control.
 - Four user input buttons.
 - Vibration motor for haptic feedback.
-- Designed to interface with the motor control system.
+- Interfaces with the motor control system.
 
 ## Cost Focused Design
 
 The motor control board and Bluetooth controller board were designed together as a single breakaway PCB. The two boards are connected during fabrication and can be snapped apart after manufacturing.
-
-Combining both boards into one fabrication layout reduces manufacturing overhead and makes better use of PCB material. Reducing the cost of the electronics was an important design goal because this hardware is part of an educational robot intended to make STEM learning more accessible to kids.
 
 ## KiP Robotics
 
