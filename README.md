@@ -2,10 +2,16 @@
 
 Motor control and handheld controller hardware developed for an educational robot at KiP Robotics, with the goal of making STEM more accessible to students.
 
+## Schematic
+
+<p align="center">
+  <img src="Images/Job2%20(4)-1.png" width="100%" alt="Motor and Bluetooth Controller Schematic">
+</p>
+
 ## PCB
 
 <p align="center">
-  <img src="Images/Screenshot%202026-09-13%20192452.png" width="90%" alt="Motor and Controller PCB">
+  <img src="Images/Screenshot%202026-09-13%20192452.png" width="90%" alt="Motor and Bluetooth Controller PCB">
 </p>
 
 ## Overview
@@ -23,7 +29,7 @@ The motor control board handles power regulation and drives four motors, while t
 - Connections for two LED screens.
 - Additional power and GPIO headers for expansion.
 
-### Controller Board
+### Bluetooth Controller Board
 
 - Raspberry Pi Pico based controller.
 - Joystick input for robot control.
@@ -33,15 +39,9 @@ The motor control board handles power regulation and drives four motors, while t
 
 ## Cost Focused Design
 
-The motor control board and controller board were designed together as a single breakaway PCB. The two boards are connected during fabrication and can be snapped apart after manufacturing.
+The motor control board and Bluetooth controller board were designed together as a single breakaway PCB. The two boards are connected during fabrication and can be snapped apart after manufacturing.
 
-Combining both boards into one fabrication layout was done to reduce manufacturing overhead and make better use of PCB material. Reducing the cost of the electronics was especially important because this hardware is part of an educational robot designed to make STEM learning more accessible to kids.
-
-## Schematic
-
-<p align="center">
-  <img src="Images/Job2%20(4)-1.png" width="100%" alt="Motor and Bluetooth Controller Schematic">
-</p>
+Combining both boards into one fabrication layout reduces manufacturing overhead and makes better use of PCB material. Reducing the cost of the electronics was an important design goal because this hardware is part of an educational robot intended to make STEM learning more accessible to kids.
 
 ## KiP Robotics
 
