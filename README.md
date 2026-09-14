@@ -1,11 +1,11 @@
 # Motor and Bluetooth Controller PCB
 
-Motor control and handheld controller hardware developed for an educational robot at KiP Robotics, with an emphasis on reducing hardware cost and making the platform more accessible to students.
+Motor control and handheld controller hardware developed for an educational robot at KiP Robotics, with the goal of making STEM more accessible to students.
 
 ## PCB
 
 <p align="center">
-  <img src="Images/Screenshot%202026-09-13%20191907.png" width="90%" alt="Motor and Controller PCB">
+  <img src="Images/Screenshot%202026-09-13%20192452.png" width="90%" alt="Motor and Controller PCB">
 </p>
 
 ## Overview
@@ -40,7 +40,7 @@ Combining both boards into one fabrication layout was done to reduce manufacturi
 ## Schematic
 
 <p align="center">
-  <img src="Images/Screenshot%202026-09-13%20192452.png" width="100%" alt="Motor and Bluetooth Controller Schematic">
+  <img src="Images/Job2%20(4)-1.png" width="100%" alt="Motor and Bluetooth Controller Schematic">
 </p>
 
 ## KiP Robotics
