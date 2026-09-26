@@ -32,15 +32,11 @@ The motor control board handles power distribution and drives four motors, while
 ### Bluetooth Controller Board
 
 - Raspberry Pi Pico based controller.
-- Joystick input for robot control.
-- Four user input buttons.
+- Analog Joystick for robot control.
+- Four push buttons.
 - Vibration motor for haptic feedback.
-- Interfaces with the motor control system.
+- Bluetooth communication with the motor control board.
 
-## Cost Focused Design
+## Cost Saving Design
 
-The motor control board and Bluetooth controller board were designed together as a single breakaway PCB. The two boards are connected during fabrication and can be snapped apart after manufacturing.
-
-## KiP Robotics
-
-This PCB was developed as part of my work at KiP Robotics, where I led hardware design for a team developing an educational robot focused on making STEM learning more accessible.
+The motor control board and Bluetooth controller board were designed together as a single breakaway PCB. Components were selected with cost as the primary consideration, with effort taken to minimize cost by reducing part count when possible.
