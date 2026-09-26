@@ -1,6 +1,6 @@
 # Motor and Bluetooth Controller PCB
 
-Motor control and handheld controller hardware developed for an educational robot at KiP Robotics. Both boards were combined into a single 2 in 1 PCB so they could be fabricated together and snapped apart after manufacturing. This results in a lower cost to make it more accessible to students.
+Motor control and handheld controller hardware developed for an educational robot at KiP Robotics. Both boards were combined into a single 2-in-1 PCB so they could be fabricated together and snapped apart after manufacturing. This results in a lower cost to make it more accessible to students.
 
 ## PCB
 
