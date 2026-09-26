@@ -2,16 +2,16 @@
 
 Motor control and handheld controller hardware developed for an educational robot at KiP Robotics, with the goal of making STEM more accessible to students.
 
-## Schematic
-
-<p align="center">
-  <img src="Images/Job2%20(4)-1.png" width="100%" alt="Motor and Bluetooth Controller Schematic">
-</p>
-
 ## PCB
 
 <p align="center">
-  <img src="Images/Screenshot%202026-09-13%20192452.png" width="90%" alt="Motor and Bluetooth Controller PCB">
+  <img src="Images/KiP%20Controller%2BMotor%20handheld.jpeg" width="90%" alt="Motor and Bluetooth Controller PCB">
+</p>
+
+## Schematic
+
+<p align="center">
+  <img src="Images/schematic.png" width="100%" alt="Motor and Bluetooth Controller Schematic">
 </p>
 
 ## Overview
