@@ -18,15 +18,15 @@ Motor control and handheld controller hardware developed for an educational robo
 
 This design combines two separate PCBs: a motor control board and a handheld controller board.
 
-The motor control board handles power regulation and drives four motors, while the controller board provides the user interface through a joystick, buttons, and haptic feedback.
+The motor control board handles power distribution and drives four motors, while the controller board allows the user to interface with the robot through a joystick, buttons, and haptic feedback.
 
 ### Motor Control Board
 
 - Raspberry Pi Pico based control.
 - Two motor driver ICs for controlling up to four motors.
-- 5 V buck converter for onboard power regulation.
-- Connections for four motors.
-- Connections for two LED screens.
+- 5V buck converter for onboard power regulation.
+- Terminal Blocks for four motors.
+- Connections for two I2C LED screens.
 - Additional power and GPIO headers for expansion.
 
 ### Bluetooth Controller Board
